@@ -100,7 +100,6 @@ mvn spring-boot:run
 
 - `POST /newmember`: Add a new customer record.
 - `GET /allmembersdata`: Get all customer records.
-- `GET /checkcheckexpirybyDate`: Get details of a specific customer.
 - `PUT /updatedata/{id}`: Update customer details.
 - `DELETE/removemember/{id}`: Delete a customer record.
 - `GET /heckcheckexpirybyDate or GET/checkexpirybyAmount`: Check membership expiration and payment status.
